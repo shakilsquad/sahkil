@@ -2,3 +2,12 @@
     margin: auto;
     padding: auto;
 }
+h2{
+    color: aqua;
+    background-color: bisque;
+}
+p{
+    color: bisque;
+    background-color: blue;
+    font-size: 90px;
+}
